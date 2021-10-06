@@ -9,6 +9,7 @@
   "author": "Ali Sajid Imami",
   "license": "AGPL-3.0-or-later",
   "devDependencies": {
+    "eslint": "^7.32.0",
     "hint": "^6.1.4",
     "prettier": "^2.4.1"
   }
