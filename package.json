@@ -9,6 +9,7 @@
   "author": "Ali Sajid Imami",
   "license": "AGPL-3.0-or-later",
   "devDependencies": {
+    "@babel/eslint-parser": "^7.15.8",
     "@typescript-eslint/eslint-plugin": "^4.33.0",
     "@typescript-eslint/parser": "^4.33.0",
     "eslint": "^7.32.0",
