@@ -1,0 +1,15 @@
+{
+  "name": "webtech_template",
+  "version": "1.0.0",
+  "description": "A template set for my web stack development projects.",
+  "main": "src/index.js",
+  "scripts": {
+    "webhint": "hint http://localhost:8080"
+  },
+  "author": "Ali Sajid Imami",
+  "license": "AGPL-3.0-or-later",
+  "devDependencies": {
+    "hint": "^6.1.4",
+    "prettier": "^2.4.1"
+  }
+}
